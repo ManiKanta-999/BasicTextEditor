@@ -18,5 +18,5 @@ When the website loads, it automatically fetches top news using an AJAX request.
 Users can select a category from the navigation bar to filter news.
 The XMLHttpRequest (XHR) API retrieves news from the Inshorts API and updates the webpage dynamically.
 Each news article is displayed in a card format, with an image, title, content preview, and a link to the full article.
-A loading spinner is shown until the news is completely loaded.
+A loading spinner is shown until the news is completely loaded
 
